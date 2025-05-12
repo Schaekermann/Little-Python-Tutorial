@@ -1,5 +1,5 @@
 # Python Tutorial
-erstellt mit stackit.io/app
+erstellt mit http://stackit.io/app
 ## Vergleich zu Java und C
 - C-Quelltext wird zu einem Executable compiliert
 - Java-Quelltexte werden zu class-Dateien compiliert, die von der virtuellen Maschine ausgeführt werden.
@@ -11,7 +11,7 @@ erstellt mit stackit.io/app
 - Auch für VS Code gibt es Python-Erweiterungen
 
 ## Python Quelltexte
-- - definieren **Variablen ohne Angabe des Datentyp** und haben **kein Semikolon** am Ende einer Anweisung
+- definieren **Variablen ohne Angabe des Datentyp** und haben **kein Semikolon** am Ende einer Anweisung
 ```
 zaehler=0
 ```
@@ -21,7 +21,7 @@ zaehler=0
 while zaehler <10:
 	print(zaehler)
 	zaehler+=1
-print("Das Waren die Ziffern von 0 bis 9.")	
+print("Das waren die Ziffern von 0 bis 9.")	
 ```
 - können über **import-Anweisungen** mit vielen Funktionen aus nachinstallierten Pakteten erweitert werden.
 https://pypi.org/project/face-recognition/
