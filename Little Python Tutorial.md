@@ -24,6 +24,7 @@ while zaehler <10:
 print("Das waren die Ziffern von 0 bis 9.")	
 ```
 - können über **import-Anweisungen** mit vielen Funktionen aus nachinstallierten Pakteten erweitert werden.
+
 https://pypi.org/project/face-recognition/
 ```
 import face_recognition
